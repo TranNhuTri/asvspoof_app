@@ -1,0 +1,2 @@
+ZERO = "zero"
+REPEAT = "repeat"

@@ -1,0 +1,4 @@
+WIN_LENGTH = 20  # in ms
+N_FILTER = 20
+N_LFCC = 40
+N_FFT = 512
