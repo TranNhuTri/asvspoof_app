@@ -152,8 +152,5 @@ class App(ctk.CTk):
 
 
 if __name__ == "__main__":
-    # pygame.mixer.init()
-    # a = pygame.mixer.Sound("/Users/admin/Downloads/LA_D_1000265.flac")
-    # song_len = a.get_length() * 3
     app = App()
     app.mainloop()
